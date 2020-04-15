@@ -1,1 +1,5 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <JetCodeStyleSettings>
+    <option name="LBRACE_ON_NEXT_LINE" value="true" />
+  </JetCodeStyleSettings>
+</code_scheme>
